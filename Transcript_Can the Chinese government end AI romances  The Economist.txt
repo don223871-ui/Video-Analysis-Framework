@@ -1,0 +1,17 @@
+00:00:00 - 00:00:33
+A 27-year-old woman from China created an AI companion that resembled a friend of hers who had died To her, this was a lover, a friend and a family member all at once But that all changed when ByteDance announced that the service that created her companion would soon be removed entirely The Chinese government is trying to put an end to AI romances New rules, which took effect in July, are the first of their kind to be implemented on a national scale anywhere in the world They aim to reduce emotional dependency on AI
+
+00:00:37 - 00:01:06
+And Chinese tech firms seem to be stripping human-like personas from their chatbots in order to comply The new rules mean that providing virtual companion services for minors will be banned outright Companies can still offer these services to adults, but they have to avoid inducing emotional dependance or addiction or harming users’ real-life relationships To achieve this, firms will need to introduce a number of safeguards Among those is telling users that they must regularly take breaks, as well as reminding them
+
+00:01:09 - 00:01:41
+that they're talking to an AI and not a human being All around the world, more and more people are turning to AI for companionship Some turn general-purpose chatbots into companions by prompting them to adopt particular personalities Others prefer dedicated AI-companionship apps which offer more human-like features such as virtual boyfriends that even send presents in the real world One AI-companionship app made by Minimax, a Chinese AI lab, has 2.8m monthly active users in China alone Tech firms have been making
+
+00:01:44 - 00:02:16
+a lot of money selling emotional connection AI companions accounted for 35% of Minimax’s revenue last year— the biggest single contributor And the more emotionally dependent someone is on an AI companion, the more money they're willing to spend on it But the new regulations don’t affect AI companions that are sold abroad That means Chinese labs can continue to sell them to foreign markets without any change without any change Talkie, an app made by Minimax, already has more than 10m users outside China
+
+00:02:18 - 00:02:46
+However, China's leaders are not the only ones worried about this Several states in America have also passed laws targeting AI services that sustain emotional relationships Chinese regulators want to prevent people from becoming addicted or being driven to self-harm China's falling fertility and marriage rates are also worrying the country's leaders More romantic relationships with AI are unlikely to help them change that China's new rules show how officials are trying to balance
+
+00:02:48 - 00:02:54
+AI progress and safety But in doing so, they may have to break millions of hearts
